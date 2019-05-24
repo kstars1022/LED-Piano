@@ -1,0 +1,22 @@
+{
+  "name": "led-piano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'hello world'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kstars1022/LED-Piano.git"
+  },
+  "author": "Keishi Suzuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kstars1022/LED-Piano/issues"
+  },
+  "homepage": "https://github.com/kstars1022/LED-Piano#readme",
+  "dependencies": {
+    "jazz-midi": "^1.6.9"
+  }
+}
